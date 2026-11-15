@@ -118,4 +118,4 @@ pc-builder/
 
 ## Créditos
 
-**Created by Georgederick.** Edite os links do GitHub e redes sociais em `src/config/site.ts`.
+**Created by Georgederick.** 
