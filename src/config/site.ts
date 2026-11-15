@@ -9,7 +9,7 @@ export const SITE = {
     github: 'https://github.com/Georgederick',
     repository: 'https://github.com/Georgederick/pc-builder',
     linkedin: 'https://www.linkedin.com/in/georgederick',
-    instagram: 'https://www.instagram.com/georgederick',
+    instagram: 'https://www.instagram.com/georgederick__',
     x: 'https://x.com/georgederick',
   },
 } as const;
