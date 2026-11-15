@@ -28,13 +28,8 @@ O **PC Builder** é uma plataforma de montagem e configuração de computadores 
 
 ## Demonstração / Demo
 
-`https://<seu-usuario>.github.io/pc-builder/`
+`https://georgederick.github.io/pc-builder/`
 
-## Screenshots
-
-| Home | Configurador | Build Overview |
-| --- | --- | --- |
-| _adicione `docs/home.png`_ | _adicione `docs/builder.png`_ | _adicione `docs/overview.png`_ |
 
 ## Funcionalidades
 
