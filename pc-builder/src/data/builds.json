@@ -1,0 +1,111 @@
+[
+ {
+  "id": "entry-level",
+  "tier": "Entry Level",
+  "name": "Entry Level",
+  "purpose": "Estudos, escritório, navegação e jogos leves usando o vídeo integrado do processador.",
+  "targets": [
+   "Trabalho e estudo",
+   "Jogos leves em 720p/1080p",
+   "Sem placa de vídeo dedicada"
+  ],
+  "items": {
+   "cpu": "amd-ryzen-5-5600g",
+   "motherboard": "gigabyte-b550m-ds3h",
+   "ram": "kingston-fury-beast-16gb-2x8gb-ddr4-3200-cl16",
+   "ssd": "kingston-nv2-500gb",
+   "psu": "corsair-cv550",
+   "case": "cooler-master-masterbox-q300l"
+  }
+ },
+ {
+  "id": "budget-gamer",
+  "tier": "Budget Gamer",
+  "name": "Budget Gamer",
+  "purpose": "Jogos em Full HD com bom desempenho e custo controlado.",
+  "targets": [
+   "Jogos em 1080p",
+   "DLSS 3",
+   "Upgrade futuro simples"
+  ],
+  "items": {
+   "cpu": "intel-core-i5-12400f",
+   "motherboard": "msi-pro-b660m-a-ddr4",
+   "ram": "corsair-vengeance-lpx-32gb-2x16gb-ddr4-3600-cl18",
+   "gpu": "asus-dual-geforce-rtx-4060-oc-8gb",
+   "ssd": "kingston-nv2-1tb",
+   "psu": "corsair-cv650",
+   "case": "corsair-4000d-airflow"
+  }
+ },
+ {
+  "id": "mid-range",
+  "tier": "Mid Range",
+  "name": "Mid Range",
+  "purpose": "Plataforma AM5 moderna para jogos em 1440p e multitarefa.",
+  "targets": [
+   "Jogos em 1440p",
+   "Plataforma DDR5 atual",
+   "Cooler dedicado silencioso"
+  ],
+  "items": {
+   "cpu": "amd-ryzen-5-7600",
+   "motherboard": "gigabyte-b650-aorus-elite-ax",
+   "ram": "kingston-fury-beast-32gb-2x16gb-ddr5-5600-cl40",
+   "gpu": "nvidia-geforce-rtx-4070-super-founders-edition",
+   "ssd": "samsung-990-pro-1tb",
+   "psu": "corsair-rm750e-2023",
+   "case": "fractal-design-north",
+   "cooler": "deepcool-ak400"
+  }
+ },
+ {
+  "id": "high-performance",
+  "tier": "High Performance",
+  "name": "High Performance",
+  "purpose": "Jogos em 4K e alto refresh com um dos melhores processadores para games.",
+  "targets": [
+   "Jogos em 4K",
+   "Alto refresh rate",
+   "Refrigeração líquida 360 mm"
+  ],
+  "items": {
+   "cpu": "amd-ryzen-7-7800x3d",
+   "motherboard": "msi-mag-b650-tomahawk-wifi",
+   "ram": "corsair-vengeance-32gb-2x16gb-ddr5-6000-cl30",
+   "gpu": "nvidia-geforce-rtx-5080-founders-edition",
+   "ssd": "wd-black-sn850x-2tb",
+   "psu": "corsair-rm850e-2023",
+   "case": "corsair-4000d-airflow",
+   "cooler": "arctic-liquid-freezer-iii-360",
+   "fan": [
+    "arctic-p14-pwm-pst",
+    1
+   ]
+  }
+ },
+ {
+  "id": "enthusiast",
+  "tier": "Enthusiast",
+  "name": "Enthusiast",
+  "purpose": "Sem concessões: jogos extremos, streaming e criação de conteúdo.",
+  "targets": [
+   "4K máximo e ray tracing",
+   "64 GB de RAM",
+   "Armazenamento PCIe 4.0 e 5.0"
+  ],
+  "items": {
+   "cpu": "intel-core-i9-14900k",
+   "motherboard": "msi-mag-z790-tomahawk-wifi",
+   "ram": "kingston-fury-beast-64gb-2x32gb-ddr5-5600-cl40",
+   "gpu": "nvidia-geforce-rtx-5090-founders-edition",
+   "ssd": [
+    "samsung-990-pro-2tb",
+    1
+   ],
+   "psu": "corsair-hx1200i-2023",
+   "case": "lian-li-o11-dynamic-evo",
+   "cooler": "arctic-liquid-freezer-iii-360"
+  }
+ }
+]

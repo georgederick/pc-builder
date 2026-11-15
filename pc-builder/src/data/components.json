@@ -1,0 +1,2120 @@
+[
+ {
+  "id": "intel-core-i3-12100f",
+  "category": "cpu",
+  "brand": "Intel",
+  "model": "Core i3-12100F",
+  "name": "Intel Core i3-12100F",
+  "price": 480,
+  "description": "Quad-core de entrada com ótimo custo-benefício para jogos leves e uso diário. Exige GPU dedicada.",
+  "specs": {
+   "socket": "LGA1700",
+   "generation": "12ª geração (Alder Lake)",
+   "cores": 4,
+   "threads": 8,
+   "baseClock": 3.3,
+   "boostClock": 4.3,
+   "cache": 12,
+   "tdp": 58,
+   "maxPower": 89,
+   "igpu": null,
+   "memoryTypes": [
+    "DDR4",
+    "DDR5"
+   ],
+   "memorySpeed": {
+    "DDR4": 3200,
+    "DDR5": 4800
+   },
+   "includesCooler": true,
+   "coreLayout": "4P"
+  }
+ },
+ {
+  "id": "intel-core-i5-12400f",
+  "category": "cpu",
+  "brand": "Intel",
+  "model": "Core i5-12400F",
+  "name": "Intel Core i5-12400F",
+  "price": 730,
+  "description": "Seis núcleos eficientes, referência de custo-benefício para PCs gamer de entrada.",
+  "specs": {
+   "socket": "LGA1700",
+   "generation": "12ª geração (Alder Lake)",
+   "cores": 6,
+   "threads": 12,
+   "baseClock": 2.5,
+   "boostClock": 4.4,
+   "cache": 18,
+   "tdp": 65,
+   "maxPower": 117,
+   "igpu": null,
+   "memoryTypes": [
+    "DDR4",
+    "DDR5"
+   ],
+   "memorySpeed": {
+    "DDR4": 3200,
+    "DDR5": 4800
+   },
+   "includesCooler": true,
+   "coreLayout": "6P"
+  }
+ },
+ {
+  "id": "intel-core-i5-13400f",
+  "category": "cpu",
+  "brand": "Intel",
+  "model": "Core i5-13400F",
+  "name": "Intel Core i5-13400F",
+  "price": 1100,
+  "description": "Arquitetura híbrida com 10 núcleos para jogos e multitarefa.",
+  "specs": {
+   "socket": "LGA1700",
+   "generation": "13ª geração (Raptor Lake)",
+   "cores": 10,
+   "threads": 16,
+   "baseClock": 2.5,
+   "boostClock": 4.6,
+   "cache": 20,
+   "tdp": 65,
+   "maxPower": 148,
+   "igpu": null,
+   "memoryTypes": [
+    "DDR4",
+    "DDR5"
+   ],
+   "memorySpeed": {
+    "DDR4": 3200,
+    "DDR5": 4800
+   },
+   "includesCooler": true,
+   "coreLayout": "6P + 4E",
+   "biosChipsets": [
+    "H610",
+    "B660"
+   ]
+  }
+ },
+ {
+  "id": "intel-core-i5-14600k",
+  "category": "cpu",
+  "brand": "Intel",
+  "model": "Core i5-14600K",
+  "name": "Intel Core i5-14600K",
+  "price": 1900,
+  "description": "Desbloqueado para overclock, 14 núcleos híbridos e vídeo integrado.",
+  "specs": {
+   "socket": "LGA1700",
+   "generation": "14ª geração (Raptor Lake Refresh)",
+   "cores": 14,
+   "threads": 20,
+   "baseClock": 3.5,
+   "boostClock": 5.3,
+   "cache": 24,
+   "tdp": 125,
+   "maxPower": 181,
+   "igpu": "Intel UHD Graphics 770",
+   "memoryTypes": [
+    "DDR4",
+    "DDR5"
+   ],
+   "memorySpeed": {
+    "DDR4": 3200,
+    "DDR5": 5600
+   },
+   "includesCooler": false,
+   "coreLayout": "6P + 8E",
+   "biosChipsets": [
+    "H610",
+    "B660",
+    "Z690"
+   ]
+  }
+ },
+ {
+  "id": "intel-core-i7-14700k",
+  "category": "cpu",
+  "brand": "Intel",
+  "model": "Core i7-14700K",
+  "name": "Intel Core i7-14700K",
+  "price": 2800,
+  "description": "20 núcleos para jogos de alto nível e criação de conteúdo.",
+  "specs": {
+   "socket": "LGA1700",
+   "generation": "14ª geração (Raptor Lake Refresh)",
+   "cores": 20,
+   "threads": 28,
+   "baseClock": 3.4,
+   "boostClock": 5.6,
+   "cache": 33,
+   "tdp": 125,
+   "maxPower": 253,
+   "igpu": "Intel UHD Graphics 770",
+   "memoryTypes": [
+    "DDR4",
+    "DDR5"
+   ],
+   "memorySpeed": {
+    "DDR4": 3200,
+    "DDR5": 5600
+   },
+   "includesCooler": false,
+   "coreLayout": "8P + 12E",
+   "biosChipsets": [
+    "H610",
+    "B660",
+    "Z690"
+   ]
+  }
+ },
+ {
+  "id": "intel-core-i9-14900k",
+  "category": "cpu",
+  "brand": "Intel",
+  "model": "Core i9-14900K",
+  "name": "Intel Core i9-14900K",
+  "price": 3800,
+  "description": "Topo da linha LGA1700 com 24 núcleos e clocks de até 6,0 GHz.",
+  "specs": {
+   "socket": "LGA1700",
+   "generation": "14ª geração (Raptor Lake Refresh)",
+   "cores": 24,
+   "threads": 32,
+   "baseClock": 3.2,
+   "boostClock": 6.0,
+   "cache": 36,
+   "tdp": 125,
+   "maxPower": 253,
+   "igpu": "Intel UHD Graphics 770",
+   "memoryTypes": [
+    "DDR4",
+    "DDR5"
+   ],
+   "memorySpeed": {
+    "DDR4": 3200,
+    "DDR5": 5600
+   },
+   "includesCooler": false,
+   "coreLayout": "8P + 16E",
+   "biosChipsets": [
+    "H610",
+    "B660",
+    "Z690"
+   ]
+  }
+ },
+ {
+  "id": "intel-core-ultra-5-245k",
+  "category": "cpu",
+  "brand": "Intel",
+  "model": "Core Ultra 5 245K",
+  "name": "Intel Core Ultra 5 245K",
+  "price": 1700,
+  "description": "Plataforma LGA1851 com 14 núcleos e suporte nativo a DDR5.",
+  "specs": {
+   "socket": "LGA1851",
+   "generation": "Core Ultra série 200 (Arrow Lake)",
+   "cores": 14,
+   "threads": 14,
+   "baseClock": 4.2,
+   "boostClock": 5.2,
+   "cache": 24,
+   "tdp": 125,
+   "maxPower": 159,
+   "igpu": "Intel Graphics",
+   "memoryTypes": [
+    "DDR5"
+   ],
+   "memorySpeed": {
+    "DDR5": 6400
+   },
+   "includesCooler": false,
+   "coreLayout": "6P + 8E"
+  }
+ },
+ {
+  "id": "intel-core-ultra-7-265k",
+  "category": "cpu",
+  "brand": "Intel",
+  "model": "Core Ultra 7 265K",
+  "name": "Intel Core Ultra 7 265K",
+  "price": 2500,
+  "description": "20 núcleos na plataforma LGA1851, voltado a jogos e produtividade.",
+  "specs": {
+   "socket": "LGA1851",
+   "generation": "Core Ultra série 200 (Arrow Lake)",
+   "cores": 20,
+   "threads": 20,
+   "baseClock": 3.9,
+   "boostClock": 5.5,
+   "cache": 30,
+   "tdp": 125,
+   "maxPower": 250,
+   "igpu": "Intel Graphics",
+   "memoryTypes": [
+    "DDR5"
+   ],
+   "memorySpeed": {
+    "DDR5": 6400
+   },
+   "includesCooler": false,
+   "coreLayout": "8P + 12E"
+  }
+ },
+ {
+  "id": "amd-ryzen-5-5600",
+  "category": "cpu",
+  "brand": "AMD",
+  "model": "Ryzen 5 5600",
+  "name": "AMD Ryzen 5 5600",
+  "price": 650,
+  "description": "Seis núcleos Zen 3 no socket AM4, excelente para upgrades econômicos.",
+  "specs": {
+   "socket": "AM4",
+   "generation": "Ryzen 5000 (Zen 3)",
+   "cores": 6,
+   "threads": 12,
+   "baseClock": 3.5,
+   "boostClock": 4.4,
+   "cache": 32,
+   "tdp": 65,
+   "maxPower": 88,
+   "igpu": null,
+   "memoryTypes": [
+    "DDR4"
+   ],
+   "memorySpeed": {
+    "DDR4": 3200
+   },
+   "includesCooler": true,
+   "biosChipsets": [
+    "B450",
+    "A520"
+   ]
+  }
+ },
+ {
+  "id": "amd-ryzen-5-5600g",
+  "category": "cpu",
+  "brand": "AMD",
+  "model": "Ryzen 5 5600G",
+  "name": "AMD Ryzen 5 5600G",
+  "price": 800,
+  "description": "Seis núcleos com gráficos Radeon integrados, dispensa placa de vídeo em montagens básicas.",
+  "specs": {
+   "socket": "AM4",
+   "generation": "Ryzen 5000G (Zen 3)",
+   "cores": 6,
+   "threads": 12,
+   "baseClock": 3.9,
+   "boostClock": 4.4,
+   "cache": 16,
+   "tdp": 65,
+   "maxPower": 88,
+   "igpu": "Radeon Graphics (7 CUs)",
+   "memoryTypes": [
+    "DDR4"
+   ],
+   "memorySpeed": {
+    "DDR4": 3200
+   },
+   "includesCooler": true,
+   "biosChipsets": [
+    "B450",
+    "A520"
+   ]
+  }
+ },
+ {
+  "id": "amd-ryzen-7-5700x",
+  "category": "cpu",
+  "brand": "AMD",
+  "model": "Ryzen 7 5700X",
+  "name": "AMD Ryzen 7 5700X",
+  "price": 900,
+  "description": "Oito núcleos Zen 3 eficientes para jogos e multitarefa em AM4.",
+  "specs": {
+   "socket": "AM4",
+   "generation": "Ryzen 5000 (Zen 3)",
+   "cores": 8,
+   "threads": 16,
+   "baseClock": 3.4,
+   "boostClock": 4.6,
+   "cache": 32,
+   "tdp": 65,
+   "maxPower": 88,
+   "igpu": null,
+   "memoryTypes": [
+    "DDR4"
+   ],
+   "memorySpeed": {
+    "DDR4": 3200
+   },
+   "includesCooler": false,
+   "biosChipsets": [
+    "B450",
+    "A520"
+   ]
+  }
+ },
+ {
+  "id": "amd-ryzen-7-5800x3d",
+  "category": "cpu",
+  "brand": "AMD",
+  "model": "Ryzen 7 5800X3D",
+  "name": "AMD Ryzen 7 5800X3D",
+  "price": 1500,
+  "description": "Cache 3D V-Cache de 96 MB focado em desempenho em jogos no AM4.",
+  "specs": {
+   "socket": "AM4",
+   "generation": "Ryzen 5000 (Zen 3 3D V-Cache)",
+   "cores": 8,
+   "threads": 16,
+   "baseClock": 3.4,
+   "boostClock": 4.5,
+   "cache": 96,
+   "tdp": 105,
+   "maxPower": 142,
+   "igpu": null,
+   "memoryTypes": [
+    "DDR4"
+   ],
+   "memorySpeed": {
+    "DDR4": 3200
+   },
+   "includesCooler": false,
+   "biosChipsets": [
+    "B450",
+    "A520"
+   ]
+  }
+ },
+ {
+  "id": "amd-ryzen-5-7600",
+  "category": "cpu",
+  "brand": "AMD",
+  "model": "Ryzen 5 7600",
+  "name": "AMD Ryzen 5 7600",
+  "price": 1100,
+  "description": "Plataforma AM5 com DDR5, 6 núcleos Zen 4 e vídeo integrado.",
+  "specs": {
+   "socket": "AM5",
+   "generation": "Ryzen 7000 (Zen 4)",
+   "cores": 6,
+   "threads": 12,
+   "baseClock": 3.8,
+   "boostClock": 5.1,
+   "cache": 32,
+   "tdp": 65,
+   "maxPower": 88,
+   "igpu": "Radeon Graphics (2 CUs)",
+   "memoryTypes": [
+    "DDR5"
+   ],
+   "memorySpeed": {
+    "DDR5": 5200
+   },
+   "includesCooler": true
+  }
+ },
+ {
+  "id": "amd-ryzen-5-7600x",
+  "category": "cpu",
+  "brand": "AMD",
+  "model": "Ryzen 5 7600X",
+  "name": "AMD Ryzen 5 7600X",
+  "price": 1250,
+  "description": "Versão de maior clock do 7600, sem cooler incluso.",
+  "specs": {
+   "socket": "AM5",
+   "generation": "Ryzen 7000 (Zen 4)",
+   "cores": 6,
+   "threads": 12,
+   "baseClock": 4.7,
+   "boostClock": 5.3,
+   "cache": 32,
+   "tdp": 105,
+   "maxPower": 142,
+   "igpu": "Radeon Graphics (2 CUs)",
+   "memoryTypes": [
+    "DDR5"
+   ],
+   "memorySpeed": {
+    "DDR5": 5200
+   },
+   "includesCooler": false
+  }
+ },
+ {
+  "id": "amd-ryzen-7-7700x",
+  "category": "cpu",
+  "brand": "AMD",
+  "model": "Ryzen 7 7700X",
+  "name": "AMD Ryzen 7 7700X",
+  "price": 1700,
+  "description": "Oito núcleos Zen 4 de alto clock para jogos e criação.",
+  "specs": {
+   "socket": "AM5",
+   "generation": "Ryzen 7000 (Zen 4)",
+   "cores": 8,
+   "threads": 16,
+   "baseClock": 4.5,
+   "boostClock": 5.4,
+   "cache": 32,
+   "tdp": 105,
+   "maxPower": 142,
+   "igpu": "Radeon Graphics (2 CUs)",
+   "memoryTypes": [
+    "DDR5"
+   ],
+   "memorySpeed": {
+    "DDR5": 5200
+   },
+   "includesCooler": false
+  }
+ },
+ {
+  "id": "amd-ryzen-7-7800x3d",
+  "category": "cpu",
+  "brand": "AMD",
+  "model": "Ryzen 7 7800X3D",
+  "name": "AMD Ryzen 7 7800X3D",
+  "price": 2400,
+  "description": "Um dos processadores mais eficientes em jogos, com 96 MB de cache L3.",
+  "specs": {
+   "socket": "AM5",
+   "generation": "Ryzen 7000 (Zen 4 3D V-Cache)",
+   "cores": 8,
+   "threads": 16,
+   "baseClock": 4.2,
+   "boostClock": 5.0,
+   "cache": 96,
+   "tdp": 120,
+   "maxPower": 162,
+   "igpu": "Radeon Graphics (2 CUs)",
+   "memoryTypes": [
+    "DDR5"
+   ],
+   "memorySpeed": {
+    "DDR5": 5200
+   },
+   "includesCooler": false
+  }
+ },
+ {
+  "id": "amd-ryzen-5-9600x",
+  "category": "cpu",
+  "brand": "AMD",
+  "model": "Ryzen 5 9600X",
+  "name": "AMD Ryzen 5 9600X",
+  "price": 1500,
+  "description": "Arquitetura Zen 5 com 6 núcleos e baixo consumo.",
+  "specs": {
+   "socket": "AM5",
+   "generation": "Ryzen 9000 (Zen 5)",
+   "cores": 6,
+   "threads": 12,
+   "baseClock": 3.9,
+   "boostClock": 5.4,
+   "cache": 32,
+   "tdp": 65,
+   "maxPower": 88,
+   "igpu": "Radeon Graphics (2 CUs)",
+   "memoryTypes": [
+    "DDR5"
+   ],
+   "memorySpeed": {
+    "DDR5": 5600
+   },
+   "includesCooler": false,
+   "biosChipsets": [
+    "B650",
+    "X670",
+    "X670E"
+   ]
+  }
+ },
+ {
+  "id": "amd-ryzen-7-9800x3d",
+  "category": "cpu",
+  "brand": "AMD",
+  "model": "Ryzen 7 9800X3D",
+  "name": "AMD Ryzen 7 9800X3D",
+  "price": 3000,
+  "description": "Zen 5 com 3D V-Cache de segunda geração para jogos extremos.",
+  "specs": {
+   "socket": "AM5",
+   "generation": "Ryzen 9000 (Zen 5 3D V-Cache)",
+   "cores": 8,
+   "threads": 16,
+   "baseClock": 4.7,
+   "boostClock": 5.2,
+   "cache": 96,
+   "tdp": 120,
+   "maxPower": 162,
+   "igpu": "Radeon Graphics (2 CUs)",
+   "memoryTypes": [
+    "DDR5"
+   ],
+   "memorySpeed": {
+    "DDR5": 5600
+   },
+   "includesCooler": false,
+   "biosChipsets": [
+    "B650",
+    "X670",
+    "X670E"
+   ]
+  }
+ },
+ {
+  "id": "amd-ryzen-9-7950x",
+  "category": "cpu",
+  "brand": "AMD",
+  "model": "Ryzen 9 7950X",
+  "name": "AMD Ryzen 9 7950X",
+  "price": 3000,
+  "description": "16 núcleos Zen 4 para renderização e estações de trabalho.",
+  "specs": {
+   "socket": "AM5",
+   "generation": "Ryzen 7000 (Zen 4)",
+   "cores": 16,
+   "threads": 32,
+   "baseClock": 4.5,
+   "boostClock": 5.7,
+   "cache": 64,
+   "tdp": 170,
+   "maxPower": 230,
+   "igpu": "Radeon Graphics (2 CUs)",
+   "memoryTypes": [
+    "DDR5"
+   ],
+   "memorySpeed": {
+    "DDR5": 5200
+   },
+   "includesCooler": false
+  }
+ },
+ {
+  "id": "amd-ryzen-9-9950x",
+  "category": "cpu",
+  "brand": "AMD",
+  "model": "Ryzen 9 9950X",
+  "name": "AMD Ryzen 9 9950X",
+  "price": 3800,
+  "description": "16 núcleos Zen 5 de alto desempenho em carga multithread.",
+  "specs": {
+   "socket": "AM5",
+   "generation": "Ryzen 9000 (Zen 5)",
+   "cores": 16,
+   "threads": 32,
+   "baseClock": 4.3,
+   "boostClock": 5.7,
+   "cache": 64,
+   "tdp": 170,
+   "maxPower": 230,
+   "igpu": "Radeon Graphics (2 CUs)",
+   "memoryTypes": [
+    "DDR5"
+   ],
+   "memorySpeed": {
+    "DDR5": 5600
+   },
+   "includesCooler": false,
+   "biosChipsets": [
+    "B650",
+    "X670",
+    "X670E"
+   ]
+  }
+ },
+ {
+  "id": "asrock-h610m-hdv-m-2",
+  "category": "motherboard",
+  "brand": "ASRock",
+  "model": "H610M-HDV/M.2",
+  "name": "ASRock H610M-HDV/M.2",
+  "price": 420,
+  "description": "Placa econômica LGA1700 para montagens de entrada com DDR4.",
+  "specs": {
+   "socket": "LGA1700",
+   "chipset": "H610",
+   "formFactor": "mATX",
+   "memoryType": "DDR4",
+   "memorySlots": 2,
+   "maxMemory": 64,
+   "wifi": false,
+   "m2Slots": 1,
+   "m2Gen": 3,
+   "sataPorts": 4
+  }
+ },
+ {
+  "id": "msi-pro-b660m-a-ddr4",
+  "category": "motherboard",
+  "brand": "MSI",
+  "model": "PRO B660M-A DDR4",
+  "name": "MSI PRO B660M-A DDR4",
+  "price": 750,
+  "description": "mATX LGA1700 com DDR4 e dois slots M.2.",
+  "specs": {
+   "socket": "LGA1700",
+   "chipset": "B660",
+   "formFactor": "mATX",
+   "memoryType": "DDR4",
+   "memorySlots": 4,
+   "maxMemory": 128,
+   "wifi": false,
+   "m2Slots": 2,
+   "m2Gen": 4,
+   "sataPorts": 4
+  }
+ },
+ {
+  "id": "gigabyte-b760m-ds3h-ddr4",
+  "category": "motherboard",
+  "brand": "Gigabyte",
+  "model": "B760M DS3H DDR4",
+  "name": "Gigabyte B760M DS3H DDR4",
+  "price": 780,
+  "description": "mATX B760 com DDR4, suporte às 12ª a 14ª gerações Intel.",
+  "specs": {
+   "socket": "LGA1700",
+   "chipset": "B760",
+   "formFactor": "mATX",
+   "memoryType": "DDR4",
+   "memorySlots": 4,
+   "maxMemory": 128,
+   "wifi": false,
+   "m2Slots": 2,
+   "m2Gen": 4,
+   "sataPorts": 4
+  }
+ },
+ {
+  "id": "asus-prime-z790-p-wifi",
+  "category": "motherboard",
+  "brand": "ASUS",
+  "model": "PRIME Z790-P WIFI",
+  "name": "ASUS PRIME Z790-P WIFI",
+  "price": 1500,
+  "description": "ATX Z790 com DDR5, Wi-Fi e três slots M.2.",
+  "specs": {
+   "socket": "LGA1700",
+   "chipset": "Z790",
+   "formFactor": "ATX",
+   "memoryType": "DDR5",
+   "memorySlots": 4,
+   "maxMemory": 192,
+   "wifi": true,
+   "m2Slots": 3,
+   "m2Gen": 4,
+   "sataPorts": 4
+  }
+ },
+ {
+  "id": "msi-mag-z790-tomahawk-wifi",
+  "category": "motherboard",
+  "brand": "MSI",
+  "model": "MAG Z790 TOMAHAWK WIFI",
+  "name": "MSI MAG Z790 TOMAHAWK WIFI",
+  "price": 2000,
+  "description": "ATX Z790 robusta com DDR5, Wi-Fi e quatro slots M.2.",
+  "specs": {
+   "socket": "LGA1700",
+   "chipset": "Z790",
+   "formFactor": "ATX",
+   "memoryType": "DDR5",
+   "memorySlots": 4,
+   "maxMemory": 192,
+   "wifi": true,
+   "m2Slots": 4,
+   "m2Gen": 5,
+   "sataPorts": 6
+  }
+ },
+ {
+  "id": "gigabyte-z890-aorus-elite-wifi7",
+  "category": "motherboard",
+  "brand": "Gigabyte",
+  "model": "Z890 AORUS ELITE WIFI7",
+  "name": "Gigabyte Z890 AORUS ELITE WIFI7",
+  "price": 2200,
+  "description": "Plataforma LGA1851 com DDR5 e Wi-Fi 7.",
+  "specs": {
+   "socket": "LGA1851",
+   "chipset": "Z890",
+   "formFactor": "ATX",
+   "memoryType": "DDR5",
+   "memorySlots": 4,
+   "maxMemory": 256,
+   "wifi": true
+  }
+ },
+ {
+  "id": "asus-prime-a520m-k",
+  "category": "motherboard",
+  "brand": "ASUS",
+  "model": "PRIME A520M-K",
+  "name": "ASUS PRIME A520M-K",
+  "price": 380,
+  "description": "mATX AM4 simples e acessível com DDR4.",
+  "specs": {
+   "socket": "AM4",
+   "chipset": "A520",
+   "formFactor": "mATX",
+   "memoryType": "DDR4",
+   "memorySlots": 2,
+   "maxMemory": 64,
+   "wifi": false,
+   "m2Slots": 1,
+   "m2Gen": 3,
+   "sataPorts": 4
+  }
+ },
+ {
+  "id": "msi-b450m-pro-vdh-max",
+  "category": "motherboard",
+  "brand": "MSI",
+  "model": "B450M PRO-VDH MAX",
+  "name": "MSI B450M PRO-VDH MAX",
+  "price": 450,
+  "description": "mATX AM4 clássica com DDR4 e slot M.2.",
+  "specs": {
+   "socket": "AM4",
+   "chipset": "B450",
+   "formFactor": "mATX",
+   "memoryType": "DDR4",
+   "memorySlots": 4,
+   "maxMemory": 64,
+   "wifi": false,
+   "m2Slots": 1,
+   "m2Gen": 3,
+   "sataPorts": 4
+  }
+ },
+ {
+  "id": "gigabyte-b550m-ds3h",
+  "category": "motherboard",
+  "brand": "Gigabyte",
+  "model": "B550M DS3H",
+  "name": "Gigabyte B550M DS3H",
+  "price": 600,
+  "description": "mATX B550 com PCIe 4.0 e dois slots M.2.",
+  "specs": {
+   "socket": "AM4",
+   "chipset": "B550",
+   "formFactor": "mATX",
+   "memoryType": "DDR4",
+   "memorySlots": 4,
+   "maxMemory": 128,
+   "wifi": false,
+   "m2Slots": 2,
+   "m2Gen": 4,
+   "sataPorts": 4
+  }
+ },
+ {
+  "id": "msi-mag-b550-tomahawk",
+  "category": "motherboard",
+  "brand": "MSI",
+  "model": "MAG B550 TOMAHAWK",
+  "name": "MSI MAG B550 TOMAHAWK",
+  "price": 950,
+  "description": "ATX B550 com VRM reforçado, PCIe 4.0 e seis portas SATA.",
+  "specs": {
+   "socket": "AM4",
+   "chipset": "B550",
+   "formFactor": "ATX",
+   "memoryType": "DDR4",
+   "memorySlots": 4,
+   "maxMemory": 128,
+   "wifi": false,
+   "m2Slots": 2,
+   "m2Gen": 4,
+   "sataPorts": 6
+  }
+ },
+ {
+  "id": "asus-prime-b650m-a-wifi-ii",
+  "category": "motherboard",
+  "brand": "ASUS",
+  "model": "PRIME B650M-A WIFI II",
+  "name": "ASUS PRIME B650M-A WIFI II",
+  "price": 1000,
+  "description": "mATX AM5 com DDR5, Wi-Fi e PCIe 4.0.",
+  "specs": {
+   "socket": "AM5",
+   "chipset": "B650",
+   "formFactor": "mATX",
+   "memoryType": "DDR5",
+   "memorySlots": 4,
+   "maxMemory": 192,
+   "wifi": true,
+   "m2Slots": 2,
+   "m2Gen": 4,
+   "sataPorts": 4
+  }
+ },
+ {
+  "id": "gigabyte-b650-aorus-elite-ax",
+  "category": "motherboard",
+  "brand": "Gigabyte",
+  "model": "B650 AORUS ELITE AX",
+  "name": "Gigabyte B650 AORUS ELITE AX",
+  "price": 1500,
+  "description": "ATX AM5 com PCIe 5.0 M.2, Wi-Fi e DDR5.",
+  "specs": {
+   "socket": "AM5",
+   "chipset": "B650",
+   "formFactor": "ATX",
+   "memoryType": "DDR5",
+   "memorySlots": 4,
+   "maxMemory": 192,
+   "wifi": true,
+   "m2Slots": 3,
+   "m2Gen": 5,
+   "sataPorts": 4
+  }
+ },
+ {
+  "id": "msi-mag-b650-tomahawk-wifi",
+  "category": "motherboard",
+  "brand": "MSI",
+  "model": "MAG B650 TOMAHAWK WIFI",
+  "name": "MSI MAG B650 TOMAHAWK WIFI",
+  "price": 1600,
+  "description": "ATX AM5 com três slots M.2, seis SATA e Wi-Fi.",
+  "specs": {
+   "socket": "AM5",
+   "chipset": "B650",
+   "formFactor": "ATX",
+   "memoryType": "DDR5",
+   "memorySlots": 4,
+   "maxMemory": 192,
+   "wifi": true,
+   "m2Slots": 3,
+   "m2Gen": 5,
+   "sataPorts": 6
+  }
+ },
+ {
+  "id": "asus-rog-strix-x670e-e-gaming-wifi",
+  "category": "motherboard",
+  "brand": "ASUS",
+  "model": "ROG STRIX X670E-E GAMING WIFI",
+  "name": "ASUS ROG STRIX X670E-E GAMING WIFI",
+  "price": 3200,
+  "description": "ATX AM5 topo de linha com PCIe 5.0 e Wi-Fi 6E.",
+  "specs": {
+   "socket": "AM5",
+   "chipset": "X670E",
+   "formFactor": "ATX",
+   "memoryType": "DDR5",
+   "memorySlots": 4,
+   "maxMemory": 192,
+   "wifi": true,
+   "m2Slots": 4,
+   "m2Gen": 5,
+   "sataPorts": 6
+  }
+ },
+ {
+  "id": "kingston-fury-beast-16gb-2x8gb-ddr4-3200-cl16",
+  "category": "ram",
+  "brand": "Kingston",
+  "model": "FURY Beast 16GB (2x8GB) DDR4-3200 CL16",
+  "name": "Kingston FURY Beast 16GB (2x8GB) DDR4-3200 CL16",
+  "price": 230,
+  "description": "Kit dual channel DDR4 confiável para montagens de entrada.",
+  "specs": {
+   "type": "DDR4",
+   "capacity": 16,
+   "modules": 2,
+   "speed": 3200,
+   "latency": 16
+  }
+ },
+ {
+  "id": "corsair-vengeance-lpx-16gb-2x8gb-ddr4-3200-cl16",
+  "category": "ram",
+  "brand": "Corsair",
+  "model": "Vengeance LPX 16GB (2x8GB) DDR4-3200 CL16",
+  "name": "Corsair Vengeance LPX 16GB (2x8GB) DDR4-3200 CL16",
+  "price": 250,
+  "description": "Perfil baixo, compatível com a maioria dos coolers.",
+  "specs": {
+   "type": "DDR4",
+   "capacity": 16,
+   "modules": 2,
+   "speed": 3200,
+   "latency": 16
+  }
+ },
+ {
+  "id": "kingston-fury-beast-32gb-2x16gb-ddr4-3200-cl16",
+  "category": "ram",
+  "brand": "Kingston",
+  "model": "FURY Beast 32GB (2x16GB) DDR4-3200 CL16",
+  "name": "Kingston FURY Beast 32GB (2x16GB) DDR4-3200 CL16",
+  "price": 430,
+  "description": "32 GB DDR4 para multitarefa e jogos.",
+  "specs": {
+   "type": "DDR4",
+   "capacity": 32,
+   "modules": 2,
+   "speed": 3200,
+   "latency": 16
+  }
+ },
+ {
+  "id": "corsair-vengeance-lpx-32gb-2x16gb-ddr4-3600-cl18",
+  "category": "ram",
+  "brand": "Corsair",
+  "model": "Vengeance LPX 32GB (2x16GB) DDR4-3600 CL18",
+  "name": "Corsair Vengeance LPX 32GB (2x16GB) DDR4-3600 CL18",
+  "price": 480,
+  "description": "Kit DDR4 de maior frequência para AM4 e LGA1700 DDR4.",
+  "specs": {
+   "type": "DDR4",
+   "capacity": 32,
+   "modules": 2,
+   "speed": 3600,
+   "latency": 18
+  }
+ },
+ {
+  "id": "kingston-fury-beast-16gb-2x8gb-ddr5-5200-cl40",
+  "category": "ram",
+  "brand": "Kingston",
+  "model": "FURY Beast 16GB (2x8GB) DDR5-5200 CL40",
+  "name": "Kingston FURY Beast 16GB (2x8GB) DDR5-5200 CL40",
+  "price": 380,
+  "description": "Entrada na plataforma DDR5.",
+  "specs": {
+   "type": "DDR5",
+   "capacity": 16,
+   "modules": 2,
+   "speed": 5200,
+   "latency": 40
+  }
+ },
+ {
+  "id": "kingston-fury-beast-32gb-2x16gb-ddr5-5600-cl40",
+  "category": "ram",
+  "brand": "Kingston",
+  "model": "FURY Beast 32GB (2x16GB) DDR5-5600 CL40",
+  "name": "Kingston FURY Beast 32GB (2x16GB) DDR5-5600 CL40",
+  "price": 620,
+  "description": "32 GB DDR5 equilibrados para AM5 e LGA1700 DDR5.",
+  "specs": {
+   "type": "DDR5",
+   "capacity": 32,
+   "modules": 2,
+   "speed": 5600,
+   "latency": 40
+  }
+ },
+ {
+  "id": "kingston-fury-beast-64gb-2x32gb-ddr5-5600-cl40",
+  "category": "ram",
+  "brand": "Kingston",
+  "model": "FURY Beast 64GB (2x32GB) DDR5-5600 CL40",
+  "name": "Kingston FURY Beast 64GB (2x32GB) DDR5-5600 CL40",
+  "price": 1500,
+  "description": "64 GB DDR5 para edição, VMs e trabalho pesado.",
+  "specs": {
+   "type": "DDR5",
+   "capacity": 64,
+   "modules": 2,
+   "speed": 5600,
+   "latency": 40
+  }
+ },
+ {
+  "id": "corsair-vengeance-32gb-2x16gb-ddr5-6000-cl30",
+  "category": "ram",
+  "brand": "Corsair",
+  "model": "Vengeance 32GB (2x16GB) DDR5-6000 CL30",
+  "name": "Corsair Vengeance 32GB (2x16GB) DDR5-6000 CL30",
+  "price": 780,
+  "description": "DDR5-6000 de baixa latência, ponto ideal para Ryzen 7000/9000.",
+  "specs": {
+   "type": "DDR5",
+   "capacity": 32,
+   "modules": 2,
+   "speed": 6000,
+   "latency": 30
+  }
+ },
+ {
+  "id": "g-skill-trident-z5-rgb-32gb-2x16gb-ddr5-6400-cl32",
+  "category": "ram",
+  "brand": "G.Skill",
+  "model": "Trident Z5 RGB 32GB (2x16GB) DDR5-6400 CL32",
+  "name": "G.Skill Trident Z5 RGB 32GB (2x16GB) DDR5-6400 CL32",
+  "price": 1000,
+  "description": "Alta frequência com iluminação RGB.",
+  "specs": {
+   "type": "DDR5",
+   "capacity": 32,
+   "modules": 2,
+   "speed": 6400,
+   "latency": 32
+  }
+ },
+ {
+  "id": "g-skill-trident-z5-neo-rgb-64gb-2x32gb-ddr5-6000-cl30",
+  "category": "ram",
+  "brand": "G.Skill",
+  "model": "Trident Z5 Neo RGB 64GB (2x32GB) DDR5-6000 CL30",
+  "name": "G.Skill Trident Z5 Neo RGB 64GB (2x32GB) DDR5-6000 CL30",
+  "price": 1900,
+  "description": "64 GB DDR5-6000 com baixa latência e RGB.",
+  "specs": {
+   "type": "DDR5",
+   "capacity": 64,
+   "modules": 2,
+   "speed": 6000,
+   "latency": 30
+  }
+ },
+ {
+  "id": "amd-radeon-rx-7600-8gb",
+  "category": "gpu",
+  "brand": "AMD",
+  "model": "Radeon RX 7600 8GB",
+  "name": "AMD Radeon RX 7600 8GB",
+  "price": 1700,
+  "description": "Full HD sólido com arquitetura RDNA 3. Comprimento varia conforme o modelo do fabricante.",
+  "specs": {
+   "maker": "AMD",
+   "chip": "Navi 33",
+   "vram": 8,
+   "vramType": "GDDR6",
+   "tdp": 165,
+   "recommendedPsu": 550,
+   "power8pin": 1,
+   "power16pin": false
+  }
+ },
+ {
+  "id": "asus-dual-geforce-rtx-4060-oc-8gb",
+  "category": "gpu",
+  "brand": "ASUS",
+  "model": "Dual GeForce RTX 4060 OC 8GB",
+  "name": "ASUS Dual GeForce RTX 4060 OC 8GB",
+  "price": 1900,
+  "description": "Full HD com DLSS 3 e baixo consumo.",
+  "specs": {
+   "maker": "NVIDIA",
+   "chip": "AD107",
+   "vram": 8,
+   "vramType": "GDDR6",
+   "tdp": 115,
+   "recommendedPsu": 550,
+   "power8pin": 1,
+   "power16pin": false,
+   "length": 227
+  }
+ },
+ {
+  "id": "msi-geforce-rtx-4060-ti-ventus-2x-black-8g-oc",
+  "category": "gpu",
+  "brand": "MSI",
+  "model": "GeForce RTX 4060 Ti VENTUS 2X BLACK 8G OC",
+  "name": "MSI GeForce RTX 4060 Ti VENTUS 2X BLACK 8G OC",
+  "price": 2600,
+  "description": "Compacta, boa para Full HD alto e 1440p.",
+  "specs": {
+   "maker": "NVIDIA",
+   "chip": "AD106",
+   "vram": 8,
+   "vramType": "GDDR6",
+   "tdp": 160,
+   "recommendedPsu": 550,
+   "power8pin": 1,
+   "power16pin": false,
+   "length": 199
+  }
+ },
+ {
+  "id": "nvidia-geforce-rtx-5060-ti-16gb-referencia",
+  "category": "gpu",
+  "brand": "NVIDIA",
+  "model": "GeForce RTX 5060 Ti 16GB (referência)",
+  "name": "NVIDIA GeForce RTX 5060 Ti 16GB (referência)",
+  "price": 3600,
+  "description": "16 GB de VRAM e DLSS 4. Comprimento varia conforme o modelo do fabricante.",
+  "specs": {
+   "maker": "NVIDIA",
+   "chip": "GB206",
+   "vram": 16,
+   "vramType": "GDDR7",
+   "tdp": 180,
+   "recommendedPsu": 600,
+   "power8pin": 1,
+   "power16pin": false
+  }
+ },
+ {
+  "id": "nvidia-geforce-rtx-4070-super-founders-edition",
+  "category": "gpu",
+  "brand": "NVIDIA",
+  "model": "GeForce RTX 4070 SUPER Founders Edition",
+  "name": "NVIDIA GeForce RTX 4070 SUPER Founders Edition",
+  "price": 4300,
+  "description": "1440p de alto desempenho com DLSS 3.",
+  "specs": {
+   "maker": "NVIDIA",
+   "chip": "AD104",
+   "vram": 12,
+   "vramType": "GDDR6X",
+   "tdp": 220,
+   "recommendedPsu": 650,
+   "power8pin": 0,
+   "power16pin": true,
+   "length": 244,
+   "adapter8pin": 2
+  }
+ },
+ {
+  "id": "nvidia-geforce-rtx-5070-founders-edition",
+  "category": "gpu",
+  "brand": "NVIDIA",
+  "model": "GeForce RTX 5070 Founders Edition",
+  "name": "NVIDIA GeForce RTX 5070 Founders Edition",
+  "price": 4900,
+  "description": "Geração Blackwell com GDDR7 para 1440p.",
+  "specs": {
+   "maker": "NVIDIA",
+   "chip": "GB205",
+   "vram": 12,
+   "vramType": "GDDR7",
+   "tdp": 250,
+   "recommendedPsu": 650,
+   "power8pin": 0,
+   "power16pin": true,
+   "length": 242,
+   "adapter8pin": 2
+  }
+ },
+ {
+  "id": "amd-radeon-rx-7800-xt-16gb-referencia",
+  "category": "gpu",
+  "brand": "AMD",
+  "model": "Radeon RX 7800 XT 16GB (referência)",
+  "name": "AMD Radeon RX 7800 XT 16GB (referência)",
+  "price": 3200,
+  "description": "16 GB de VRAM para 1440p com ótimo custo-benefício.",
+  "specs": {
+   "maker": "AMD",
+   "chip": "Navi 32",
+   "vram": 16,
+   "vramType": "GDDR6",
+   "tdp": 263,
+   "recommendedPsu": 700,
+   "power8pin": 2,
+   "power16pin": false,
+   "length": 267
+  }
+ },
+ {
+  "id": "amd-radeon-rx-9070-xt-16gb",
+  "category": "gpu",
+  "brand": "AMD",
+  "model": "Radeon RX 9070 XT 16GB",
+  "name": "AMD Radeon RX 9070 XT 16GB",
+  "price": 4900,
+  "description": "RDNA 4 para 1440p e 4K. Comprimento varia conforme o modelo do fabricante.",
+  "specs": {
+   "maker": "AMD",
+   "chip": "Navi 48",
+   "vram": 16,
+   "vramType": "GDDR6",
+   "tdp": 304,
+   "recommendedPsu": 750,
+   "power8pin": 2,
+   "power16pin": false
+  }
+ },
+ {
+  "id": "amd-radeon-rx-7900-xtx-24gb-referencia",
+  "category": "gpu",
+  "brand": "AMD",
+  "model": "Radeon RX 7900 XTX 24GB (referência)",
+  "name": "AMD Radeon RX 7900 XTX 24GB (referência)",
+  "price": 6800,
+  "description": "24 GB de VRAM para 4K.",
+  "specs": {
+   "maker": "AMD",
+   "chip": "Navi 31",
+   "vram": 24,
+   "vramType": "GDDR6",
+   "tdp": 355,
+   "recommendedPsu": 800,
+   "power8pin": 2,
+   "power16pin": false,
+   "length": 287
+  }
+ },
+ {
+  "id": "nvidia-geforce-rtx-5080-founders-edition",
+  "category": "gpu",
+  "brand": "NVIDIA",
+  "model": "GeForce RTX 5080 Founders Edition",
+  "name": "NVIDIA GeForce RTX 5080 Founders Edition",
+  "price": 9500,
+  "description": "4K de alto desempenho com 16 GB GDDR7.",
+  "specs": {
+   "maker": "NVIDIA",
+   "chip": "GB203",
+   "vram": 16,
+   "vramType": "GDDR7",
+   "tdp": 360,
+   "recommendedPsu": 850,
+   "power8pin": 0,
+   "power16pin": true,
+   "length": 304,
+   "adapter8pin": 3
+  }
+ },
+ {
+  "id": "nvidia-geforce-rtx-4090-founders-edition",
+  "category": "gpu",
+  "brand": "NVIDIA",
+  "model": "GeForce RTX 4090 Founders Edition",
+  "name": "NVIDIA GeForce RTX 4090 Founders Edition",
+  "price": 14000,
+  "description": "24 GB GDDR6X, geração Ada Lovelace de topo.",
+  "specs": {
+   "maker": "NVIDIA",
+   "chip": "AD102",
+   "vram": 24,
+   "vramType": "GDDR6X",
+   "tdp": 450,
+   "recommendedPsu": 850,
+   "power8pin": 0,
+   "power16pin": true,
+   "length": 304,
+   "adapter8pin": 4
+  }
+ },
+ {
+  "id": "nvidia-geforce-rtx-5090-founders-edition",
+  "category": "gpu",
+  "brand": "NVIDIA",
+  "model": "GeForce RTX 5090 Founders Edition",
+  "name": "NVIDIA GeForce RTX 5090 Founders Edition",
+  "price": 18000,
+  "description": "A GPU de consumo mais potente da NVIDIA, com 32 GB GDDR7.",
+  "specs": {
+   "maker": "NVIDIA",
+   "chip": "GB202",
+   "vram": 32,
+   "vramType": "GDDR7",
+   "tdp": 575,
+   "recommendedPsu": 1000,
+   "power8pin": 0,
+   "power16pin": true,
+   "length": 304,
+   "adapter8pin": 4
+  }
+ },
+ {
+  "id": "kingston-a400-480gb",
+  "category": "ssd",
+  "brand": "Kingston",
+  "model": "A400 480GB",
+  "name": "Kingston A400 480GB",
+  "price": 180,
+  "description": "SSD SATA básico, grande salto sobre HDDs.",
+  "specs": {
+   "interface": "SATA III",
+   "formFactor": "2.5\"",
+   "capacity": 480,
+   "read": 500,
+   "write": 450
+  }
+ },
+ {
+  "id": "crucial-mx500-1tb",
+  "category": "ssd",
+  "brand": "Crucial",
+  "model": "MX500 1TB",
+  "name": "Crucial MX500 1TB",
+  "price": 500,
+  "description": "SSD SATA confiável de 1 TB.",
+  "specs": {
+   "interface": "SATA III",
+   "formFactor": "2.5\"",
+   "capacity": 1000,
+   "read": 560,
+   "write": 510
+  }
+ },
+ {
+  "id": "samsung-870-evo-1tb",
+  "category": "ssd",
+  "brand": "Samsung",
+  "model": "870 EVO 1TB",
+  "name": "Samsung 870 EVO 1TB",
+  "price": 600,
+  "description": "SSD SATA de referência em durabilidade.",
+  "specs": {
+   "interface": "SATA III",
+   "formFactor": "2.5\"",
+   "capacity": 1000,
+   "read": 560,
+   "write": 530
+  }
+ },
+ {
+  "id": "kingston-nv2-500gb",
+  "category": "ssd",
+  "brand": "Kingston",
+  "model": "NV2 500GB",
+  "name": "Kingston NV2 500GB",
+  "price": 230,
+  "description": "NVMe PCIe 4.0 acessível.",
+  "specs": {
+   "interface": "NVMe PCIe 4.0 x4",
+   "formFactor": "M.2 2280",
+   "capacity": 500,
+   "read": 3500,
+   "write": 2100,
+   "gen": 4
+  }
+ },
+ {
+  "id": "kingston-nv2-1tb",
+  "category": "ssd",
+  "brand": "Kingston",
+  "model": "NV2 1TB",
+  "name": "Kingston NV2 1TB",
+  "price": 380,
+  "description": "NVMe de 1 TB com ótimo custo.",
+  "specs": {
+   "interface": "NVMe PCIe 4.0 x4",
+   "formFactor": "M.2 2280",
+   "capacity": 1000,
+   "read": 3500,
+   "write": 2100,
+   "gen": 4
+  }
+ },
+ {
+  "id": "samsung-970-evo-plus-1tb",
+  "category": "ssd",
+  "brand": "Samsung",
+  "model": "970 EVO Plus 1TB",
+  "name": "Samsung 970 EVO Plus 1TB",
+  "price": 500,
+  "description": "NVMe PCIe 3.0 consagrado.",
+  "specs": {
+   "interface": "NVMe PCIe 3.0 x4",
+   "formFactor": "M.2 2280",
+   "capacity": 1000,
+   "read": 3500,
+   "write": 3300,
+   "gen": 3
+  }
+ },
+ {
+  "id": "samsung-980-pro-1tb",
+  "category": "ssd",
+  "brand": "Samsung",
+  "model": "980 PRO 1TB",
+  "name": "Samsung 980 PRO 1TB",
+  "price": 650,
+  "description": "NVMe PCIe 4.0 de alto desempenho.",
+  "specs": {
+   "interface": "NVMe PCIe 4.0 x4",
+   "formFactor": "M.2 2280",
+   "capacity": 1000,
+   "read": 7000,
+   "write": 5000,
+   "gen": 4
+  }
+ },
+ {
+  "id": "crucial-t500-1tb",
+  "category": "ssd",
+  "brand": "Crucial",
+  "model": "T500 1TB",
+  "name": "Crucial T500 1TB",
+  "price": 650,
+  "description": "NVMe PCIe 4.0 rápido e eficiente.",
+  "specs": {
+   "interface": "NVMe PCIe 4.0 x4",
+   "formFactor": "M.2 2280",
+   "capacity": 1000,
+   "read": 7300,
+   "write": 6800,
+   "gen": 4
+  }
+ },
+ {
+  "id": "samsung-990-pro-1tb",
+  "category": "ssd",
+  "brand": "Samsung",
+  "model": "990 PRO 1TB",
+  "name": "Samsung 990 PRO 1TB",
+  "price": 780,
+  "description": "NVMe PCIe 4.0 de topo para jogos e criação.",
+  "specs": {
+   "interface": "NVMe PCIe 4.0 x4",
+   "formFactor": "M.2 2280",
+   "capacity": 1000,
+   "read": 7450,
+   "write": 6900,
+   "gen": 4
+  }
+ },
+ {
+  "id": "wd-black-sn850x-1tb",
+  "category": "ssd",
+  "brand": "WD",
+  "model": "Black SN850X 1TB",
+  "name": "WD Black SN850X 1TB",
+  "price": 700,
+  "description": "NVMe PCIe 4.0 otimizado para jogos.",
+  "specs": {
+   "interface": "NVMe PCIe 4.0 x4",
+   "formFactor": "M.2 2280",
+   "capacity": 1000,
+   "read": 7300,
+   "write": 6300,
+   "gen": 4
+  }
+ },
+ {
+  "id": "wd-black-sn850x-2tb",
+  "category": "ssd",
+  "brand": "WD",
+  "model": "Black SN850X 2TB",
+  "name": "WD Black SN850X 2TB",
+  "price": 1250,
+  "description": "2 TB de NVMe PCIe 4.0 para jogos.",
+  "specs": {
+   "interface": "NVMe PCIe 4.0 x4",
+   "formFactor": "M.2 2280",
+   "capacity": 2000,
+   "read": 7300,
+   "write": 6600,
+   "gen": 4
+  }
+ },
+ {
+  "id": "samsung-990-pro-2tb",
+  "category": "ssd",
+  "brand": "Samsung",
+  "model": "990 PRO 2TB",
+  "name": "Samsung 990 PRO 2TB",
+  "price": 1400,
+  "description": "2 TB NVMe PCIe 4.0 de alto desempenho.",
+  "specs": {
+   "interface": "NVMe PCIe 4.0 x4",
+   "formFactor": "M.2 2280",
+   "capacity": 2000,
+   "read": 7450,
+   "write": 6900,
+   "gen": 4
+  }
+ },
+ {
+  "id": "crucial-t705-1tb",
+  "category": "ssd",
+  "brand": "Crucial",
+  "model": "T705 1TB",
+  "name": "Crucial T705 1TB",
+  "price": 1400,
+  "description": "NVMe PCIe 5.0 com leituras de até 13.600 MB/s.",
+  "specs": {
+   "interface": "NVMe PCIe 5.0 x4",
+   "formFactor": "M.2 2280",
+   "capacity": 1000,
+   "read": 13600,
+   "write": 10200,
+   "gen": 5
+  }
+ },
+ {
+  "id": "seagate-barracuda-1tb-st1000dm010",
+  "category": "hdd",
+  "brand": "Seagate",
+  "model": "BarraCuda 1TB (ST1000DM010)",
+  "name": "Seagate BarraCuda 1TB (ST1000DM010)",
+  "price": 280,
+  "description": "HD de 1 TB para arquivos.",
+  "specs": {
+   "capacity": 1000,
+   "rpm": 7200,
+   "cache": 64,
+   "interface": "SATA III"
+  }
+ },
+ {
+  "id": "wd-blue-1tb-wd10ezex",
+  "category": "hdd",
+  "brand": "WD",
+  "model": "Blue 1TB (WD10EZEX)",
+  "name": "WD Blue 1TB (WD10EZEX)",
+  "price": 290,
+  "description": "HD de 1 TB confiável.",
+  "specs": {
+   "capacity": 1000,
+   "rpm": 7200,
+   "cache": 64,
+   "interface": "SATA III"
+  }
+ },
+ {
+  "id": "seagate-barracuda-2tb-st2000dm008",
+  "category": "hdd",
+  "brand": "Seagate",
+  "model": "BarraCuda 2TB (ST2000DM008)",
+  "name": "Seagate BarraCuda 2TB (ST2000DM008)",
+  "price": 380,
+  "description": "2 TB com 256 MB de cache.",
+  "specs": {
+   "capacity": 2000,
+   "rpm": 7200,
+   "cache": 256,
+   "interface": "SATA III"
+  }
+ },
+ {
+  "id": "toshiba-p300-2tb-hdwd220",
+  "category": "hdd",
+  "brand": "Toshiba",
+  "model": "P300 2TB (HDWD220)",
+  "name": "Toshiba P300 2TB (HDWD220)",
+  "price": 390,
+  "description": "HD de 2 TB para uso geral.",
+  "specs": {
+   "capacity": 2000,
+   "rpm": 7200,
+   "cache": 64,
+   "interface": "SATA III"
+  }
+ },
+ {
+  "id": "wd-blue-4tb-wd40ezax",
+  "category": "hdd",
+  "brand": "WD",
+  "model": "Blue 4TB (WD40EZAX)",
+  "name": "WD Blue 4TB (WD40EZAX)",
+  "price": 700,
+  "description": "4 TB de capacidade e baixo ruído.",
+  "specs": {
+   "capacity": 4000,
+   "rpm": 5400,
+   "cache": 256,
+   "interface": "SATA III"
+  }
+ },
+ {
+  "id": "seagate-ironwolf-4tb-st4000vn006",
+  "category": "hdd",
+  "brand": "Seagate",
+  "model": "IronWolf 4TB (ST4000VN006)",
+  "name": "Seagate IronWolf 4TB (ST4000VN006)",
+  "price": 800,
+  "description": "HD NAS de 4 TB para operação contínua.",
+  "specs": {
+   "capacity": 4000,
+   "rpm": 5900,
+   "cache": 256,
+   "interface": "SATA III"
+  }
+ },
+ {
+  "id": "corsair-cv550",
+  "category": "psu",
+  "brand": "Corsair",
+  "model": "CV550",
+  "name": "Corsair CV550",
+  "price": 330,
+  "description": "Fonte de entrada 80 Plus Bronze.",
+  "specs": {
+   "wattage": 550,
+   "efficiency": "80 Plus Bronze",
+   "modular": "Não modular",
+   "pcie16pin": false,
+   "pcie8pin": 2
+  }
+ },
+ {
+  "id": "corsair-cv650",
+  "category": "psu",
+  "brand": "Corsair",
+  "model": "CV650",
+  "name": "Corsair CV650",
+  "price": 400,
+  "description": "650 W 80 Plus Bronze para GPUs de entrada e intermediárias.",
+  "specs": {
+   "wattage": 650,
+   "efficiency": "80 Plus Bronze",
+   "modular": "Não modular",
+   "pcie16pin": false,
+   "pcie8pin": 2
+  }
+ },
+ {
+  "id": "cooler-master-mwe-bronze-750-v2",
+  "category": "psu",
+  "brand": "Cooler Master",
+  "model": "MWE Bronze 750 V2",
+  "name": "Cooler Master MWE Bronze 750 V2",
+  "price": 520,
+  "description": "750 W com bom custo-benefício.",
+  "specs": {
+   "wattage": 750,
+   "efficiency": "80 Plus Bronze",
+   "modular": "Não modular",
+   "pcie16pin": false,
+   "pcie8pin": 4
+  }
+ },
+ {
+  "id": "corsair-rm750e-2023",
+  "category": "psu",
+  "brand": "Corsair",
+  "model": "RM750e (2023)",
+  "name": "Corsair RM750e (2023)",
+  "price": 780,
+  "description": "750 W Gold totalmente modular, ATX 3.0 com conector 12VHPWR.",
+  "specs": {
+   "wattage": 750,
+   "efficiency": "80 Plus Gold",
+   "modular": "Totalmente modular",
+   "pcie16pin": true,
+   "pcie8pin": 4
+  }
+ },
+ {
+  "id": "corsair-rm850e-2023",
+  "category": "psu",
+  "brand": "Corsair",
+  "model": "RM850e (2023)",
+  "name": "Corsair RM850e (2023)",
+  "price": 900,
+  "description": "850 W Gold totalmente modular com 12VHPWR.",
+  "specs": {
+   "wattage": 850,
+   "efficiency": "80 Plus Gold",
+   "modular": "Totalmente modular",
+   "pcie16pin": true,
+   "pcie8pin": 6
+  }
+ },
+ {
+  "id": "corsair-rm1000e-2023",
+  "category": "psu",
+  "brand": "Corsair",
+  "model": "RM1000e (2023)",
+  "name": "Corsair RM1000e (2023)",
+  "price": 1100,
+  "description": "1000 W Gold totalmente modular com 12VHPWR.",
+  "specs": {
+   "wattage": 1000,
+   "efficiency": "80 Plus Gold",
+   "modular": "Totalmente modular",
+   "pcie16pin": true,
+   "pcie8pin": 6
+  }
+ },
+ {
+  "id": "corsair-hx1200i-2023",
+  "category": "psu",
+  "brand": "Corsair",
+  "model": "HX1200i (2023)",
+  "name": "Corsair HX1200i (2023)",
+  "price": 1900,
+  "description": "1200 W Platinum para configurações extremas.",
+  "specs": {
+   "wattage": 1200,
+   "efficiency": "80 Plus Platinum",
+   "modular": "Totalmente modular",
+   "pcie16pin": true,
+   "pcie8pin": 8
+  }
+ },
+ {
+  "id": "cooler-master-masterbox-q300l",
+  "category": "case",
+  "brand": "Cooler Master",
+  "model": "MasterBox Q300L",
+  "name": "Cooler Master MasterBox Q300L",
+  "price": 400,
+  "description": "Gabinete compacto mATX com painel lateral acrílico.",
+  "specs": {
+   "formFactors": [
+    "mATX",
+    "ITX"
+   ],
+   "includedFans": 1,
+   "sidePanel": "Acrílico",
+   "maxGpuLength": 360,
+   "maxCoolerHeight": 159,
+   "bays25": 2,
+   "bays35": 2
+  }
+ },
+ {
+  "id": "nzxt-h5-flow",
+  "category": "case",
+  "brand": "NZXT",
+  "model": "H5 Flow",
+  "name": "NZXT H5 Flow",
+  "price": 650,
+  "description": "Mid tower de fluxo de ar com painel frontal perfurado.",
+  "specs": {
+   "formFactors": [
+    "ATX",
+    "mATX",
+    "ITX"
+   ],
+   "includedFans": 2,
+   "sidePanel": "Vidro temperado",
+   "maxGpuLength": 365,
+   "maxCoolerHeight": 165
+  }
+ },
+ {
+  "id": "corsair-4000d-airflow",
+  "category": "case",
+  "brand": "Corsair",
+  "model": "4000D Airflow",
+  "name": "Corsair 4000D Airflow",
+  "price": 600,
+  "description": "Mid tower ATX clássico com excelente ventilação.",
+  "specs": {
+   "formFactors": [
+    "ATX",
+    "mATX",
+    "ITX"
+   ],
+   "includedFans": 2,
+   "sidePanel": "Vidro temperado",
+   "maxGpuLength": 360,
+   "maxCoolerHeight": 170,
+   "maxRadiator": 360,
+   "bays25": 2,
+   "bays35": 2,
+   "fanSlots": 6
+  }
+ },
+ {
+  "id": "lian-li-lancool-216",
+  "category": "case",
+  "brand": "Lian Li",
+  "model": "LANCOOL 216",
+  "name": "Lian Li LANCOOL 216",
+  "price": 800,
+  "description": "Mid tower com duas ventoinhas de 160 mm frontais.",
+  "specs": {
+   "formFactors": [
+    "ATX",
+    "mATX",
+    "ITX"
+   ],
+   "includedFans": 3,
+   "sidePanel": "Vidro temperado",
+   "maxGpuLength": 392,
+   "maxCoolerHeight": 180,
+   "maxRadiator": 360,
+   "bays25": 2,
+   "bays35": 2
+  }
+ },
+ {
+  "id": "fractal-design-north",
+  "category": "case",
+  "brand": "Fractal Design",
+  "model": "North",
+  "name": "Fractal Design North",
+  "price": 1100,
+  "description": "Design em madeira e malha, mid tower ATX.",
+  "specs": {
+   "formFactors": [
+    "ATX",
+    "mATX",
+    "ITX"
+   ],
+   "includedFans": 2,
+   "sidePanel": "Vidro temperado",
+   "maxGpuLength": 355,
+   "maxCoolerHeight": 170,
+   "maxRadiator": 360
+  }
+ },
+ {
+  "id": "corsair-5000d-airflow",
+  "category": "case",
+  "brand": "Corsair",
+  "model": "5000D Airflow",
+  "name": "Corsair 5000D Airflow",
+  "price": 900,
+  "description": "Mid tower espaçoso com fluxo de ar otimizado.",
+  "specs": {
+   "formFactors": [
+    "ATX",
+    "mATX",
+    "ITX"
+   ],
+   "includedFans": 2,
+   "sidePanel": "Vidro temperado",
+   "maxGpuLength": 420,
+   "maxCoolerHeight": 170,
+   "maxRadiator": 360
+  }
+ },
+ {
+  "id": "lian-li-o11-dynamic-evo",
+  "category": "case",
+  "brand": "Lian Li",
+  "model": "O11 Dynamic EVO",
+  "name": "Lian Li O11 Dynamic EVO",
+  "price": 1000,
+  "description": "Gabinete showcase com câmara dupla e vidro em duas faces.",
+  "specs": {
+   "formFactors": [
+    "E-ATX",
+    "ATX",
+    "mATX",
+    "ITX"
+   ],
+   "includedFans": 0,
+   "sidePanel": "Vidro temperado",
+   "maxGpuLength": 422,
+   "maxCoolerHeight": 167,
+   "maxRadiator": 360
+  }
+ },
+ {
+  "id": "cooler-master-hyper-212-black-edition",
+  "category": "cooler",
+  "brand": "Cooler Master",
+  "model": "Hyper 212 Black Edition",
+  "name": "Cooler Master Hyper 212 Black Edition",
+  "price": 180,
+  "description": "Cooler a ar clássico com torre simples.",
+  "specs": {
+   "type": "air",
+   "sockets": [
+    "AM4",
+    "AM5",
+    "LGA1700"
+   ],
+   "fanSize": 120,
+   "height": 159,
+   "tdpRating": 150
+  }
+ },
+ {
+  "id": "deepcool-ak400",
+  "category": "cooler",
+  "brand": "DeepCool",
+  "model": "AK400",
+  "name": "DeepCool AK400",
+  "price": 170,
+  "description": "Torre simples eficiente, referência de custo-benefício.",
+  "specs": {
+   "type": "air",
+   "sockets": [
+    "AM4",
+    "AM5",
+    "LGA1700",
+    "LGA1851"
+   ],
+   "fanSize": 120,
+   "height": 155,
+   "tdpRating": 220
+  }
+ },
+ {
+  "id": "deepcool-ak620",
+  "category": "cooler",
+  "brand": "DeepCool",
+  "model": "AK620",
+  "name": "DeepCool AK620",
+  "price": 330,
+  "description": "Torre dupla para CPUs de alto desempenho.",
+  "specs": {
+   "type": "air",
+   "sockets": [
+    "AM4",
+    "AM5",
+    "LGA1700",
+    "LGA1851"
+   ],
+   "fanSize": 120,
+   "height": 160,
+   "tdpRating": 260
+  }
+ },
+ {
+  "id": "noctua-nh-d15-g2",
+  "category": "cooler",
+  "brand": "Noctua",
+  "model": "NH-D15 G2",
+  "name": "Noctua NH-D15 G2",
+  "price": 1100,
+  "description": "Cooler a ar de torre dupla silencioso e de alta capacidade.",
+  "specs": {
+   "type": "air",
+   "sockets": [
+    "AM4",
+    "AM5",
+    "LGA1700",
+    "LGA1851"
+   ],
+   "fanSize": 140,
+   "height": 168
+  }
+ },
+ {
+  "id": "arctic-liquid-freezer-iii-360",
+  "category": "cooler",
+  "brand": "Arctic",
+  "model": "Liquid Freezer III 360",
+  "name": "Arctic Liquid Freezer III 360",
+  "price": 700,
+  "description": "Water cooler AIO de 360 mm.",
+  "specs": {
+   "type": "aio",
+   "sockets": [
+    "AM4",
+    "AM5",
+    "LGA1700",
+    "LGA1851"
+   ],
+   "fanSize": 120,
+   "radiator": 360
+  }
+ },
+ {
+  "id": "corsair-icue-h100i-elite-capellix-xt",
+  "category": "cooler",
+  "brand": "Corsair",
+  "model": "iCUE H100i ELITE CAPELLIX XT",
+  "name": "Corsair iCUE H100i ELITE CAPELLIX XT",
+  "price": 1000,
+  "description": "Water cooler AIO de 240 mm com RGB.",
+  "specs": {
+   "type": "aio",
+   "sockets": [
+    "AM4",
+    "AM5",
+    "LGA1700"
+   ],
+   "fanSize": 120,
+   "radiator": 240
+  }
+ },
+ {
+  "id": "arctic-p12-pwm-pst-pacote-com-5",
+  "category": "fan",
+  "brand": "Arctic",
+  "model": "P12 PWM PST (pacote com 5)",
+  "name": "Arctic P12 PWM PST (pacote com 5)",
+  "price": 150,
+  "description": "Ventoinha 120 mm de alta pressão estática e baixo custo.",
+  "specs": {
+   "size": 120,
+   "minRpm": 200,
+   "maxRpm": 1800,
+   "airflow": 56.3,
+   "rgb": false,
+   "quantity": 5
+  }
+ },
+ {
+  "id": "arctic-p14-pwm-pst",
+  "category": "fan",
+  "brand": "Arctic",
+  "model": "P14 PWM PST",
+  "name": "Arctic P14 PWM PST",
+  "price": 60,
+  "description": "Ventoinha 140 mm silenciosa.",
+  "specs": {
+   "size": 140,
+   "minRpm": 200,
+   "maxRpm": 1700,
+   "airflow": 72.8,
+   "rgb": false,
+   "quantity": 1
+  }
+ },
+ {
+  "id": "noctua-nf-a12x25-pwm",
+  "category": "fan",
+  "brand": "Noctua",
+  "model": "NF-A12x25 PWM",
+  "name": "Noctua NF-A12x25 PWM",
+  "price": 220,
+  "description": "Referência em silêncio e desempenho em 120 mm.",
+  "specs": {
+   "size": 120,
+   "minRpm": 450,
+   "maxRpm": 2000,
+   "airflow": 60.1,
+   "rgb": false,
+   "quantity": 1
+  }
+ },
+ {
+  "id": "noctua-nf-a14-pwm",
+  "category": "fan",
+  "brand": "Noctua",
+  "model": "NF-A14 PWM",
+  "name": "Noctua NF-A14 PWM",
+  "price": 200,
+  "description": "140 mm de alto fluxo de ar.",
+  "specs": {
+   "size": 140,
+   "minRpm": 300,
+   "maxRpm": 1500,
+   "airflow": 82.5,
+   "rgb": false,
+   "quantity": 1
+  }
+ },
+ {
+  "id": "cooler-master-sickleflow-120-argb",
+  "category": "fan",
+  "brand": "Cooler Master",
+  "model": "SickleFlow 120 ARGB",
+  "name": "Cooler Master SickleFlow 120 ARGB",
+  "price": 70,
+  "description": "Ventoinha 120 mm com iluminação ARGB.",
+  "specs": {
+   "size": 120,
+   "minRpm": 650,
+   "maxRpm": 1800,
+   "airflow": 62,
+   "rgb": true,
+   "quantity": 1
+  }
+ },
+ {
+  "id": "lian-li-uni-fan-sl120-v2-pacote-com-3",
+  "category": "fan",
+  "brand": "Lian Li",
+  "model": "UNI FAN SL120 V2 (pacote com 3)",
+  "name": "Lian Li UNI FAN SL120 V2 (pacote com 3)",
+  "price": 450,
+  "description": "Trio de ventoinhas 120 mm com RGB e encaixe em cadeia.",
+  "specs": {
+   "size": 120,
+   "minRpm": 800,
+   "maxRpm": 2100,
+   "airflow": 58.5,
+   "rgb": true,
+   "quantity": 3
+  }
+ }
+]
